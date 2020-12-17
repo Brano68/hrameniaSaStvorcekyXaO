@@ -232,6 +232,7 @@ public class Controller extends Main{
         }else{
             pole[suradnicaX][suradnicaY] = 1;
             bt.setText("O");
+            //
         }
     }
 
