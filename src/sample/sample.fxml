@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<Pane fx:id="platno" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="461.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <Button fx:id="but1" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#click1" prefHeight="70.0" prefWidth="74.0" text="X">
+         <font>
+            <Font size="30.0" />
+         </font></Button>
+      <Button fx:id="but2" layoutX="105.0" layoutY="14.0" mnemonicParsing="false" onAction="#click2" prefHeight="70.0" prefWidth="74.0" text="X">
+         <font>
+            <Font size="30.0" />
+         </font></Button>
+      <Button fx:id="but3" layoutX="197.0" layoutY="14.0" mnemonicParsing="false" onAction="#click3" prefHeight="70.0" prefWidth="74.0" text="X">
+         <font>
+            <Font size="30.0" />
+         </font></Button>
+      <Button fx:id="but4" layoutX="284.0" layoutY="14.0" mnemonicParsing="false" onAction="#click4" prefHeight="70.0" prefWidth="74.0" text="X">
+         <font>
+            <Font size="30.0" />
+         </font></Button>
+      <Button fx:id="but5" layoutX="14.0" layoutY="94.0" mnemonicParsing="false" onAction="#click5" prefHeight="70.0" prefWidth="74.0" text="X">
+         <font>
+            <Font size="30.0" />
+         </font></Button>
+      <Button fx:id="but6" layoutX="105.0" layoutY="94.0" mnemonicParsing="false" onAction="#click6" prefHeight="70.0" prefWidth="74.0" text="X">
+         <font>
+            <Font size="30.0" />
+         </font></Button>
+      <Button fx:id="but7" layoutX="197.0" layoutY="94.0" mnemonicParsing="false" onAction="#click7" prefHeight="70.0" prefWidth="74.0" text="X">
+         <font>
+            <Font size="30.0" />
+         </font></Button>
+      <Button fx:id="but8" layoutX="284.0" layoutY="94.0" mnemonicParsing="false" onAction="#click8" prefHeight="70.0" prefWidth="74.0" text="X">
+         <font>
+            <Font size="30.0" />
+         </font></Button>
+      <Button fx:id="but9" layoutX="14.0" layoutY="175.0" mnemonicParsing="false" onAction="#click9" prefHeight="70.0" prefWidth="74.0" text="X">
+         <font>
+            <Font size="30.0" />
+         </font></Button>
+      <Button fx:id="but10" layoutX="105.0" layoutY="175.0" mnemonicParsing="false" onAction="#click10" prefHeight="70.0" prefWidth="74.0" text="X">
+         <font>
+            <Font size="30.0" />
+         </font></Button>
+      <Button fx:id="but11" layoutX="197.0" layoutY="175.0" mnemonicParsing="false" onAction="#click11" prefHeight="70.0" prefWidth="74.0" text="X">
+         <font>
+            <Font size="30.0" />
+         </font></Button>
+      <Button fx:id="but12" layoutX="284.0" layoutY="175.0" mnemonicParsing="false" onAction="#click12" prefHeight="70.0" prefWidth="74.0" text="X">
+         <font>
+            <Font size="30.0" />
+         </font></Button>
+      <Button fx:id="but13" layoutX="14.0" layoutY="255.0" mnemonicParsing="false" onAction="#click13" prefHeight="70.0" prefWidth="74.0" text="X">
+         <font>
+            <Font size="30.0" />
+         </font></Button>
+      <Button fx:id="but14" layoutX="105.0" layoutY="255.0" mnemonicParsing="false" onAction="#click14" prefHeight="70.0" prefWidth="74.0" text="X">
+         <font>
+            <Font size="30.0" />
+         </font></Button>
+      <Button fx:id="but15" layoutX="197.0" layoutY="255.0" mnemonicParsing="false" onAction="#click15" prefHeight="70.0" prefWidth="74.0" text="X">
+         <font>
+            <Font size="30.0" />
+         </font></Button>
+      <Button fx:id="but16" layoutX="284.0" layoutY="255.0" mnemonicParsing="false" onAction="#click16" prefHeight="70.0" prefWidth="74.0" text="X">
+         <font>
+            <Font size="30.0" />
+         </font></Button>
+      <Button layoutX="371.0" layoutY="345.0" mnemonicParsing="false" onAction="#mix" text="miesaj" />
+   </children>
+</Pane>
