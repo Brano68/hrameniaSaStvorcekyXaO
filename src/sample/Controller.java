@@ -10,6 +10,11 @@ import javafx.util.Duration;
 import java.util.Random;
 import java.util.Timer;
 
+/*
+
+//play: you can chage text in the buttons. You are winner in case all buttons are O or X
+ */
+
 public class Controller extends Main{
     public Button but1;
     public Button but2;
